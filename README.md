@@ -29,4 +29,5 @@ Moti - Helper module for Reanimated 2
 ## How To Start
 
   yarn install 
+  
   yarn start
