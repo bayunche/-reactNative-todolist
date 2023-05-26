@@ -35,7 +35,7 @@ const AboutScreen = () => {
         pt="30px"
         p={4}
       >
-        <VStack flex={1} space={4}>
+        {/* <VStack flex={1} space={4}>
           <Box alignItems="center">
             <Image
               source={require('../assets/takuya.jpg')}
@@ -87,7 +87,7 @@ const AboutScreen = () => {
           >
             https://www.inkdrop.app/
           </LinkButton>
-        </VStack>
+        </VStack> */}
       </ScrollView>
     </AnimatedColorBox>
   )
